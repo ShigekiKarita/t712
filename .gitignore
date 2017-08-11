@@ -1,0 +1,11 @@
+*
+!*/
+
+data/
+*/.ipynb_checkpoints
+
+!.gitignore
+!*.py
+!*.md
+!*.ipynb
+!*.sh
